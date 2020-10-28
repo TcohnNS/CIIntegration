@@ -16,4 +16,4 @@ jobs:
           auto_score: "20"
           auto_show_status_messages: "true"
           auto_group: "be50cb1e-f934-11e6-a267-639282966b4b"
-          auto_token: $AUTO_TOKEN
+          auto_token: $NS_INT
